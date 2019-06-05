@@ -1,0 +1,5 @@
+Entities\Board.class
+UI\Renderer.class
+Entities\Token.class
+UI\MainClass.class
+Entities\Player.class
